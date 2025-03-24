@@ -1,4 +1,4 @@
-﻿# Loan Calculator
+
 # Loan Calculator 💰
 
 This is a simple Loan Calculator made using HTML, CSS, and JavaScript.  
