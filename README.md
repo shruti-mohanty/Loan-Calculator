@@ -5,6 +5,10 @@ This is a simple Loan Calculator made using HTML, CSS, and JavaScript.
 It helps you calculate the monthly payments, total payment, and total interest for a loan.
 
 ---
+Live link:
+shruti-loan-calculator.netlify.app
+
+---
 
 ## 🔧 Features
 
