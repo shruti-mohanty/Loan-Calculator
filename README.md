@@ -6,7 +6,7 @@ It helps you calculate the monthly payments, total payment, and total interest f
 
 ---
 Live link:
-shruti-loan-calculator.netlify.app
+https://shruti-loan-calculator.netlify.app/
 
 ---
 
